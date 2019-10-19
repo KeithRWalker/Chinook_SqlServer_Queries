@@ -1,0 +1,3 @@
+SELECT COUNT(InvoiceId) AS 'NUMBER OF LINE ITEMS'
+FROM InvoiceLine
+WHERE InvoiceId = 37
