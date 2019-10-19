@@ -1,3 +1,3 @@
 SELECT *
 FROM Employee
-WHERE Title LIKE 'Sales Support%'
+WHERE Title LIKE '%Sales Support%'
